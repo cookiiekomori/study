@@ -8,3 +8,4 @@ print(example[1::2])
 # experiments
 
 print(example[:])
+print(example[::2])
