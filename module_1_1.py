@@ -4,3 +4,7 @@ print(example[-1])
 print(example[7:])
 print(example[::-1])
 print(example[1::2])
+
+# experiments
+
+print(example[:])
